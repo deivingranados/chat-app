@@ -1,0 +1,75 @@
+{
+   "data": [
+        {  
+          "id": 1,
+          "name": "Rey",
+          "descripcion":"Rey es la protagonista de esta nueva trilogía. Interpretado por Daisy Ridley, llega a este último capítulo con más preguntas que respuestas. Sigue sin saber quiénes fueron sus padres... y su poder va en aumento.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rey-star-wars-1576748928.jpeg"
+        },
+        {
+           "id": 2,
+          "name": "Leia",
+          "descripcion":"La General Leia, interpretada por Carrie Fisher, es la imagen de la Resistencia desde hace décadas, y todo el mundo la venera. Pese a que fue herida en 'Los últimos Jedi', ella podría ser la clave para salvar a su hijo Kylo, como vimos en la anterior entrega.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leia-1576748988.jfif?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+          {
+           "id": 3,
+          "name": "Kylo Ren / Ben Solo",
+          "descripcion":"Kylo Ren, interpretado por Adam Driver, ya asesinó a su padre en 'El despertar de la Fuerza' y estuvo a punto de hacer lo mismo con su madre en 'Los últimos Jedi'. Sus dudas van en aumento... al igual que el creciente odio que lo acerca al Lado Oscuro.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kylo-ren-1576748928.jpg?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+          {
+           "id": 4,
+          "name": "Finn",
+          "descripcion":"john Boyega interpreta a Finn, ex-soldado de asalto, y ahora uno de los líderes de la Resistencia junto a Poe Dameron. En esta nueva entrega podría tener un mayor protagonismo...",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/finn-star-wars-1576748928.jpg?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+          {
+          "id": 5,
+          "name": "Emperador Palpatine",
+          "descripcion":"A todos nos sorprendió el regreso del emperador Palpatine (interpretado por Ian McDiarmid), sobre todo porque moría en 'El retorno del Jedi'. ¿Qué secretos esconderá su vuelta?",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emperador-palpatine-1576748926.jpg?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+          {
+          "id": 6,
+          "name": "Jannah",
+          "descripcion":"Jannah está interpretada por Naomi Ackie y es parte de una nueva tribu que podría ser decisiva en la lucha contra la Primera Orden.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jannah-star-wars-1576748926.jpg?crop=1xw:1xh;center,top&resize=1026:*"
+        },
+         {
+          "id": 7,
+          "name": "Poe Dameron",
+          "descripcion":"El deslenguado y engreído (pero tremendamente carismático) Poe Dameron, es uno de los mejores pilotos de la Resistencia, y uno de los Líderes que los rebeldes necesitan. Junto con Poe, hacen un equipo inquebrantable.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poe-star-wars-1576748928.jpeg?crop=1xw:1xh;center,top&resize=1026:*"
+        },
+          {
+          "name": "Babu Frik",
+          "descripcion":"Babu Frik es un experto en droides del planeta Kijimi, y jugará un papel fundamental en la trama, ya que le hemos visto tratando de 'piratear' a C-3PO. ¿Qué quiere hacer?",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/babu-frik-1576748925.jpg?crop=1xw:1xh;center,top&resize=1026:*"
+        },
+          {
+          "id": 8,
+          "name": "Leia",
+          "descripcion":"La General Leia, interpretada por Carrie Fisher, es la imagen de la Resistencia desde hace décadas, y todo el mundo la venera. Pese a que fue herida en 'Los últimos Jedi', ella podría ser la clave para salvar a su hijo Kylo, como vimos en la anterior entrega.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leia-1576748988.jfif?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+          {
+          "id": 9,
+          "name": "Leia",
+          "descripcion":"La General Leia, interpretada por Carrie Fisher, es la imagen de la Resistencia desde hace décadas, y todo el mundo la venera. Pese a que fue herida en 'Los últimos Jedi', ella podría ser la clave para salvar a su hijo Kylo, como vimos en la anterior entrega.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leia-1576748988.jfif?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+         {
+          "name": "Leia",
+          "descripcion":"La General Leia, interpretada por Carrie Fisher, es la imagen de la Resistencia desde hace décadas, y todo el mundo la venera. Pese a que fue herida en 'Los últimos Jedi', ella podría ser la clave para salvar a su hijo Kylo, como vimos en la anterior entrega.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leia-1576748988.jfif?crop=1xw:1xh;center,top&resize=1050:*"
+        },
+          {
+          "id": 10,
+          "name": "Leia",
+          "descripcion":"La General Leia, interpretada por Carrie Fisher, es la imagen de la Resistencia desde hace décadas, y todo el mundo la venera. Pese a que fue herida en 'Los últimos Jedi', ella podría ser la clave para salvar a su hijo Kylo, como vimos en la anterior entrega.",
+          "urlImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leia-1576748988.jfif?crop=1xw:1xh;center,top&resize=1050:*"
+        }
+       
+      ]
+   }
